@@ -1,6 +1,8 @@
 # IAGENETIQUE
 Intelligence Artificiel Génétique
 
+->   En cours de rajout pour les librairies et fichiers manquant ->
+
 De nombreux parametres vous ont alors demandes.
 Je les explique ci-dessous:
 
